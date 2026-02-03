@@ -1,7 +1,7 @@
 # Web Application (Next.js + Wagmi + SIWE)
 
 This is the frontend web application for the NFT token-gated dashboard project.  
-It is built with **Next.js 13 (App Router)**, **Tailwind CSS**, and **Wagmi + Ethers.js** for Web3 interactions.
+It is built with **Next.js 16**, **Tailwind CSS**, and **Wagmi + Ethers.js** for Web3 interactions.
 
 The app allows users to:
 - Connect their Ethereum wallet (WalletConnect, MetaMask, etc.)
